@@ -91,6 +91,8 @@ Use Cases:
 - Manage Listings
 - Send Notifications
 
+- ![Use Case Diagram](https://drive.google.com/file/d/1sQah-I_P4pnKl1DKNg-J4z6LOPxPvRDY/view?usp=drive_link)
+
 ## Acceptance Criteria
 
 **Acceptance Criteria** define the conditions that a software feature must meet to be accepted by stakeholders.  
