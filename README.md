@@ -91,7 +91,7 @@ Use Cases:
 - Manage Listings
 - Send Notifications
 
-- ![Use Case Diagram](https://drive.google.com/file/d/1sQah-I_P4pnKl1DKNg-J4z6LOPxPvRDY/view?usp=drive_link)
+![Use Case Diagram](alx-booking-uc.png)
 
 ## Acceptance Criteria
 
