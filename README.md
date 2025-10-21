@@ -91,7 +91,7 @@ Use Cases:
 - Manage Listings
 - Send Notifications
 
-![Use Case Diagram](https://raw.githubusercontent.com/blaemedia/requirement-analysis/main/alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.png)
 
 
 
